@@ -69,7 +69,7 @@
     {
       "key": "eibar",
       "name": "Eibar",
-      "code": null
+      "code": "EIB"
     },
     {
       "key": "betis",
@@ -79,7 +79,7 @@
     {
       "key": "laspalmas",
       "name": "Las Palmas",
-      "code": null
+      "code": "LPA"
     },
     {
       "key": "villareal",
@@ -89,17 +89,17 @@
     {
       "key": "alaves",
       "name": "Alavés",
-      "code": null
+      "code": "ALA"
     },
     {
       "key": "girona",
       "name": "Girona",
-      "code": null
+      "code": "GIR"
     },
     {
       "key": "leganes",
       "name": "Club Deportivo Leganés",
-      "code": null
+      "code": "LGA"
     }
   ]
 }
