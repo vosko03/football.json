@@ -16,8 +16,8 @@
             "name": "Getafe",
             "code": "GET"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2017-08-20",
@@ -31,8 +31,8 @@
             "name": "Betis",
             "code": "BET"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
           "date": "2017-08-20",
@@ -46,8 +46,8 @@
             "name": "R. Sociedad",
             "code": "RSO"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 3
         },
         {
           "date": "2017-08-20",
@@ -61,8 +61,8 @@
             "name": "R. Madrid",
             "code": "RMD"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2017-08-20",
@@ -76,23 +76,23 @@
             "name": "Atlético",
             "code": "ATL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2017-08-20",
           "team1": {
             "key": "leganes",
             "name": "Club Deportivo Leganés",
-            "code": null
+            "code": "LGA"
           },
           "team2": {
             "key": "alaves",
             "name": "Alavés",
-            "code": null
+            "code": "ALA"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-08-20",
@@ -106,8 +106,8 @@
             "name": "Villarreal CF",
             "code": "VLL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-08-20",
@@ -119,10 +119,10 @@
           "team2": {
             "key": "eibar",
             "name": "Eibar",
-            "code": null
+            "code": "EIB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2017-08-20",
@@ -136,8 +136,8 @@
             "name": "Espanyol",
             "code": "ESP"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2017-08-20",
@@ -149,10 +149,10 @@
           "team2": {
             "key": "laspalmas",
             "name": "Las Palmas",
-            "code": null
+            "code": "LPA"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         }
       ]
     },
